@@ -1,1 +1,1 @@
-from .game import entities
+from game import entities
